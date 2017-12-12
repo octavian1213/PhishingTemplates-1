@@ -1,0 +1,2 @@
+# PhishingTemplates
+Common phishing templates
